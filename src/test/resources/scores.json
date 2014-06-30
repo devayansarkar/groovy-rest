@@ -1,0 +1,58 @@
+{
+    "2014-06-12": [
+        {
+            "round": "Group A",
+            "teams": [
+                {
+                    "country": "BRA",
+                    "score": 3
+                },
+                {
+                    "country": "CRO",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "round": "Group Z",
+            "teams": [
+                {
+                    "country": "NED",
+                    "score": 1000
+                },
+                {
+                    "country": "GER",
+                    "score": 0
+                }
+            ]
+        }
+    ],
+    "2014-06-13": [
+        {
+            "round": "Group A",
+            "teams": [
+                {
+                    "country": "MEX",
+                    "score": 1
+                },
+                {
+                    "country": "CMR",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "round": "Group A",
+            "teams": [
+                {
+                    "country": "FOO",
+                    "score": 8
+                },
+                {
+                    "country": "BAR",
+                    "score": 5
+                }
+            ]
+        }
+    ]
+}

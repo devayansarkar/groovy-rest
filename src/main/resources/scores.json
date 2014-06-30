@@ -1,0 +1,737 @@
+{
+    "2014-06-12": [
+        {
+            "round": "Group A",
+            "teams": [
+                {
+                    "country": "BRA",
+                    "score": 3
+                },
+                {
+                    "country": "CRO",
+                    "score": 1
+                }
+            ]
+        }
+    ],
+    "2014-06-13": [
+        {
+            "round": "Group A",
+            "teams": [
+                {
+                    "country": "MEX",
+                    "score": 1
+                },
+                {
+                    "country": "CMR",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "round": "Group B",
+            "teams": [
+                {
+                    "country": "ESP",
+                    "score": 1
+                },
+                {
+                    "country": "NED",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "round": "Group B",
+            "teams": [
+                {
+                    "country": "CHI",
+                    "score": 3
+                },
+                {
+                    "country": "AUS",
+                    "score": 1
+                }
+            ]
+        }
+    ], "2014-06-14": [
+    {
+        "round": "Group B",
+        "teams": [
+            {
+                "country": "COL",
+                "score": 3
+            },
+            {
+                "country": "GRE",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "CHI",
+                "score": 3
+            },
+            {
+                "country": "AUS",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "URU",
+                "score": 1
+            },
+            {
+                "country": "CRC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "ENG",
+                "score": 1
+            },
+            {
+                "country": "ITA",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "CIV",
+                "score": 2
+            },
+            {
+                "country": "JPN",
+                "score": 1
+            }
+        ]
+    }
+], "2014-06-15": [
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "SUI",
+                "score": 2
+            },
+            {
+                "country": "ECU",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "FRA",
+                "score": 3
+            },
+            {
+                "country": "HON",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "ARG",
+                "score": 2
+            },
+            {
+                "country": "BHR",
+                "score": 1
+            }
+        ]
+    }
+], "2014-06-16": [
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "GER",
+                "score": 4
+            },
+            {
+                "country": "POR",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "IRN",
+                "score": 0
+            },
+            {
+                "country": "NGR",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "GHA",
+                "score": 1
+            },
+            {
+                "country": "USA",
+                "score": 2
+            }
+        ]
+    }
+], "2014-06-17": [
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "BEL",
+                "score": 2
+            },
+            {
+                "country": "ALG",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group A",
+        "teams": [
+            {
+                "country": "BRA",
+                "score": 0
+            },
+            {
+                "country": "MEX",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "RUS",
+                "score": 1
+            },
+            {
+                "country": "KOR",
+                "score": 1
+            }
+        ]
+    }
+], "2014-06-18": [
+    {
+        "round": "Group B",
+        "teams": [
+            {
+                "country": "AUS",
+                "score": 2
+            },
+            {
+                "country": "NED",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "ESP",
+                "score": 0
+            },
+            {
+                "country": "CHI",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "CMR",
+                "score": 0
+            },
+            {
+                "country": "CRO",
+                "score": 4
+            }
+        ]
+    }
+], "2014-06-19": [
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "COL",
+                "score": 2
+            },
+            {
+                "country": "CIV",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "URU",
+                "score": 2
+            },
+            {
+                "country": "ENG",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "JPN",
+                "score": 0
+            },
+            {
+                "country": "GRE",
+                "score": 0
+            }
+        ]
+    }
+], "2014-06-20": [
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "ITA",
+                "score": 0
+            },
+            {
+                "country": "CRC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "SUI",
+                "score": 2
+            },
+            {
+                "country": "FRA",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "HON",
+                "score": 1
+            },
+            {
+                "country": "ECU",
+                "score": 2
+            }
+        ]
+    }
+], "2014-06-21": [
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "ARG",
+                "score": 1
+            },
+            {
+                "country": "IRN",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "GER",
+                "score": 2
+            },
+            {
+                "country": "GHA",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "NGA",
+                "score": 1
+            },
+            {
+                "country": "BHR",
+                "score": 0
+            }
+        ]
+    }
+], "2014-06-22": [
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "BEL",
+                "score": 1
+            },
+            {
+                "country": "RUS",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "KOR",
+                "score": 2
+            },
+            {
+                "country": "ALG",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "USA",
+                "score": 2
+            },
+            {
+                "country": "POR",
+                "score": 2
+            }
+        ]
+    }
+], "2014-06-23": [
+    {
+        "round": "Group B",
+        "teams": [
+            {
+                "country": "AUS",
+                "score": 0
+            },
+            {
+                "country": "ESP",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "round": "Group B",
+        "teams": [
+            {
+                "country": "NED",
+                "score": 2
+            },
+            {
+                "country": "CHI",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group A",
+        "teams": [
+            {
+                "country": "CMR",
+                "score": 1
+            },
+            {
+                "country": "BRA",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "round": "Group A",
+        "teams": [
+            {
+                "country": "CRO",
+                "score": 1
+            },
+            {
+                "country": "MEX",
+                "score": 3
+            }
+        ]
+    }
+], "2014-06-24": [
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "CRC",
+                "score": 0
+            },
+            {
+                "country": "ENG",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Group D",
+        "teams": [
+            {
+                "country": "ITA",
+                "score": 0
+            },
+            {
+                "country": "URU",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "GRE",
+                "score": 2
+            },
+            {
+                "country": "CIV",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group C",
+        "teams": [
+            {
+                "country": "JPN",
+                "score": 1
+            },
+            {
+                "country": "COL",
+                "score": 4
+            }
+        ]
+    }
+], "2014-06-25": [
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "NGA",
+                "score": 2
+            },
+            {
+                "country": "ARG",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "round": "Group F",
+        "teams": [
+            {
+                "country": "BHR",
+                "score": 3
+            },
+            {
+                "country": "IRN",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "HON",
+                "score": 0
+            },
+            {
+                "country": "SUI",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "round": "Group E",
+        "teams": [
+            {
+                "country": "ECU",
+                "score": 0
+            },
+            {
+                "country": "FRA",
+                "score": 0
+            }
+        ]
+    }
+], "2014-06-26": [
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "USA",
+                "score": 0
+            },
+            {
+                "country": "GER",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group G",
+        "teams": [
+            {
+                "country": "POR",
+                "score": 2
+            },
+            {
+                "country": "GHA",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "ALG",
+                "score": 1
+            },
+            {
+                "country": "RUS",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Group H",
+        "teams": [
+            {
+                "country": "KOR",
+                "score": 0
+            },
+            {
+                "country": "BEL",
+                "score": 1
+            }
+        ]
+    }
+], "2014-06-28": [
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "CHI",
+                "score": 1
+            },
+            {
+                "country": "BRA",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "COL",
+                "score": 2
+            },
+            {
+                "country": "URU",
+                "score": 0
+            }
+        ]
+    }
+], "2014-06-29": [
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "NED",
+                "score": 2
+            },
+            {
+                "country": "MEX",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "CRC",
+                "score": 1
+            },
+            {
+                "country": "GRE",
+                "score": 1
+            }
+        ]
+    }
+], "2014-06-30": [
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "NGA",
+                "score": 0
+            },
+            {
+                "country": "FRA",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "GER",
+                "score": 4
+            },
+            {
+                "country": "ALG",
+                "score": 0
+            }
+        ]
+    }
+]
+}

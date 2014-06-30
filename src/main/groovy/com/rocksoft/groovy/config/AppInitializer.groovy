@@ -11,8 +11,8 @@ import javax.servlet.ServletException
 import javax.servlet.ServletRegistration
 
 class AppInitializer implements WebApplicationInitializer {
-  private static final String CONFIG_LOCATION = "com.rocksoft.groovy.config"
-  private static final String MAPPING_URL = "/*"
+  static final String CONFIG_LOCATION = "com.rocksoft.groovy.config"
+  static final String MAPPING_URL = "/*"
 
   @Override
   public void onStartup(ServletContext servletContext) throws ServletException {

@@ -711,6 +711,19 @@
         "round": "Round of 16",
         "teams": [
             {
+                "country": "GER",
+                "score": 2
+            },
+            {
+                "country": "ALG",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
                 "country": "NGA",
                 "score": 0
             },
@@ -724,11 +737,128 @@
         "round": "Round of 16",
         "teams": [
             {
-                "country": "GER",
-                "score": 4
+                "country": "ARG",
+                "score": 1
             },
             {
-                "country": "ALG",
+                "country": "SUI",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Round of 16",
+        "teams": [
+            {
+                "country": "BEL",
+                "score": 2
+            },
+            {
+                "country": "USA",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Quarterfinal",
+        "teams": [
+            {
+                "country": "FRA",
+                "score": 0
+            },
+            {
+                "country": "GER",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Quarterfinal",
+        "teams": [
+            {
+                "country": "BRA",
+                "score": 2
+            },
+            {
+                "country": "COL",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "round": "Quarterfinal",
+        "teams": [
+            {
+                "country": "ARG",
+                "score": 1
+            },
+            {
+                "country": "BEL",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Quarterfinal",
+        "teams": [
+            {
+                "country": "NED",
+                "score": 0
+            },
+            {
+                "country": "CRC",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Semifinal",
+        "teams": [
+            {
+                "country": "BRA",
+                "score": 1
+            },
+            {
+                "country": "GER",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "round": "Semifinal",
+        "teams": [
+            {
+                "country": "NED",
+                "score": 0
+            },
+            {
+                "country": "ARG",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "3rd Place",
+        "teams": [
+            {
+                "country": "NED",
+                "score": 3
+            },
+            {
+                "country": "BRA",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "round": "Final",
+        "teams": [
+            {
+                "country": "GER",
+                "score": 1
+            },
+            {
+                "country": "ARG",
                 "score": 0
             }
         ]
